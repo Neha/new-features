@@ -22,6 +22,13 @@ While learning new CSS3 features and making youtube videos for JSLovers, I start
 - flexbox - work in progress
 - grids
 
+
+# What's next?
+- HTML
+- JavaScript
+- SCSS
+
+
 # :heart: Contribution
 
 If you would like to contribute please raise the PR.
